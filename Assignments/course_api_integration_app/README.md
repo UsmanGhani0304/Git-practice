@@ -48,13 +48,25 @@ lib/
 
 ## Screenshots
 
-Add screenshots after running the app:
+### Login Screen
 
-- Login screen: `screenshots/login.png`
-- Course list screen: `screenshots/course-list.png`
-- Add course screen: `screenshots/add-course.png`
-- Edit course screen: `screenshots/edit-course.png`
-- Delete confirmation: `screenshots/delete-confirmation.png`
+![Login screen](screenshots/login.png)
+
+### Course List Screen
+
+![Course list screen](screenshots/course-list.png)
+
+### Add Course Screen
+
+![Add course screen](screenshots/add-course.png)
+
+### Edit Course Screen
+
+![Edit course screen](screenshots/edit-course.png)
+
+### Delete Confirmation
+
+![Delete confirmation](screenshots/delete-confirmation.png)
 
 ## How to Run
 
