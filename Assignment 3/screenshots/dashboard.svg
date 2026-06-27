@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="760" viewBox="0 0 360 760">
+  <rect width="360" height="760" fill="#f7f9fc"/>
+  <text x="24" y="52" font-family="Arial" font-size="22" font-weight="700" fill="#14213d">Dashboard</text>
+  <text x="314" y="52" font-family="Arial" font-size="20" fill="#276ef1">out</text>
+  <circle cx="58" cy="116" r="34" fill="#d9e7ff"/>
+  <text x="43" y="125" font-family="Arial" font-size="18" font-weight="700" fill="#124078">HR</text>
+  <text x="108" y="110" font-family="Arial" font-size="22" font-weight="700" fill="#14213d">Hadi Raza</text>
+  <text x="108" y="134" font-family="Arial" font-size="13" fill="#5f6b7a">student@example.com</text>
+  <text x="24" y="204" font-family="Arial" font-size="22" font-weight="700" fill="#14213d">Subjects</text>
+  <g font-family="Arial">
+    <rect x="24" y="228" width="312" height="76" rx="8" fill="#ffffff" stroke="#d8dee9"/>
+    <text x="42" y="260" font-size="15" font-weight="700" fill="#14213d">Mobile App Development</text>
+    <text x="42" y="282" font-size="12" fill="#5f6b7a">Monday and Wednesday, 10:00 AM</text>
+    <text x="314" y="272" font-size="24" fill="#8a94a6">&gt;</text>
+    <rect x="24" y="320" width="312" height="76" rx="8" fill="#ffffff" stroke="#d8dee9"/>
+    <text x="42" y="352" font-size="15" font-weight="700" fill="#14213d">Software Re-engineering</text>
+    <text x="42" y="374" font-size="12" fill="#5f6b7a">Tuesday and Thursday, 12:00 PM</text>
+    <text x="314" y="364" font-size="24" fill="#8a94a6">&gt;</text>
+    <rect x="24" y="412" width="312" height="76" rx="8" fill="#ffffff" stroke="#d8dee9"/>
+    <text x="42" y="444" font-size="15" font-weight="700" fill="#14213d">Management Information Systems</text>
+    <text x="42" y="466" font-size="12" fill="#5f6b7a">Friday, 9:00 AM - 12:00 PM</text>
+    <text x="314" y="456" font-size="24" fill="#8a94a6">&gt;</text>
+  </g>
+</svg>

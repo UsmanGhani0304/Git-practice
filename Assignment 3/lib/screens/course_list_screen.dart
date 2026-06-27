@@ -4,7 +4,6 @@ import 'package:provider/provider.dart';
 import '../models/course.dart';
 import '../providers/course_provider.dart';
 import 'course_form_screen.dart';
-import 'login_screen.dart';
 
 class CourseListScreen extends StatefulWidget {
   const CourseListScreen({super.key});
@@ -103,12 +102,6 @@ class _CourseListScreenState extends State<CourseListScreen> {
     );
   }
 
-  void _logout() {
-    Navigator.of(context).pushReplacement(
-      MaterialPageRoute(builder: (_) => const LoginScreen()),
-    );
-  }
-
   @override
   Widget build(BuildContext context) {
     return Consumer<CourseProvider>(
@@ -123,11 +116,6 @@ class _CourseListScreenState extends State<CourseListScreen> {
                     ? null
                     : () => provider.loadCourses(forceRemote: true),
                 icon: const Icon(Icons.refresh),
-              ),
-              IconButton(
-                tooltip: 'Logout',
-                onPressed: _logout,
-                icon: const Icon(Icons.logout),
               ),
             ],
           ),

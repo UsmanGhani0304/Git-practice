@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="760" viewBox="0 0 360 760">
+  <rect width="360" height="760" fill="#f7f9fc"/>
+  <text x="24" y="52" font-family="Arial" font-size="22" font-weight="700" fill="#14213d">Subject Detail</text>
+  <text x="24" y="100" font-family="Arial" font-size="27" font-weight="800" fill="#14213d">Mobile App</text>
+  <text x="24" y="132" font-family="Arial" font-size="27" font-weight="800" fill="#14213d">Development</text>
+  <rect x="24" y="162" width="312" height="180" rx="8" fill="#dff0ea"/>
+  <text x="132" y="270" font-family="Arial" font-size="44" font-weight="900" fill="#174d3f">MAD</text>
+  <text x="24" y="386" font-family="Arial" font-size="17" font-weight="700" fill="#14213d">Description</text>
+  <text x="24" y="416" font-family="Arial" font-size="14" fill="#415062">Covers Flutter widgets, navigation, forms,</text>
+  <text x="24" y="438" font-family="Arial" font-size="14" fill="#415062">validation, state handling, and deployment.</text>
+  <text x="24" y="494" font-family="Arial" font-size="17" font-weight="700" fill="#14213d">Class Timing</text>
+  <text x="24" y="524" font-family="Arial" font-size="14" fill="#415062">Monday and Wednesday, 10:00 AM - 11:30 AM</text>
+  <text x="24" y="580" font-family="Arial" font-size="17" font-weight="700" fill="#14213d">Schedule Information</text>
+  <text x="24" y="610" font-family="Arial" font-size="14" fill="#415062">Weekly lab sessions focus on multi-screen</text>
+  <text x="24" y="632" font-family="Arial" font-size="14" fill="#415062">Flutter applications and reusable components.</text>
+</svg>
